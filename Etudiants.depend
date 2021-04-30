@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1575923596 source:c:\users\svsv\desktop\c++\tito en classe\etudiants\src\etudiant.cpp
+	"Etudiant.h"
+	<iostream>
+
+1576522599 c:\users\svsv\desktop\c++\tito en classe\etudiants\include\etudiant.h
+	<string>
+
+1576521573 source:c:\users\svsv\desktop\c++\tito en classe\etudiants\src\loge.cpp
+	"Loge.h"
+	<iostream>
+
+1576524585 c:\users\svsv\desktop\c++\tito en classe\etudiants\include\loge.h
+	"Etudiant.h"
+
+1576525707 source:c:\users\svsv\desktop\c++\tito en classe\etudiants\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	"services.h"
+	"Etudiant.h"
+
+1576525215 source:c:\users\svsv\desktop\c++\tito en classe\etudiants\src\boursier.cpp
+	"Boursier.h"
+	"Etudiant.h"
+	<iostream>
+
+1576524533 c:\users\svsv\desktop\c++\tito en classe\etudiants\include\boursier.h
+	<string>
+	"Etudiant.h"
+
+1576525142 source:c:\users\svsv\desktop\c++\tito en classe\etudiants\src\services.cpp
+	"services.h"
+	"Etudiant.h"
+	"Boursier.h"
+	"Loge.h"
+	<iostream>
+	<vector>
+
+1576526296 c:\users\svsv\desktop\c++\tito en classe\etudiants\include\services.h
+	<vector>
+	"Etudiant.h"
+
